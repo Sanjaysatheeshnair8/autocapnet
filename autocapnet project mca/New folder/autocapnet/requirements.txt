@@ -1,0 +1,12 @@
+streamlit==1.32.2
+torch==2.2.1
+torchvision==0.17.1
+transformers==4.38.2
+Pillow==10.2.0
+deep-translator==1.11.4
+keybert==0.8.4
+sentence-transformers==2.5.1
+fpdf2==2.7.8
+accelerate==0.27.2
+scikit-learn==1.4.1.post1
+numpy==1.26.4
